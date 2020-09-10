@@ -1,0 +1,1 @@
+A small quote-serving JSON API.
